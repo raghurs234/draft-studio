@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/draft-studio/static/css/main.f855e6bc.css",
+    "main.js": "/draft-studio/static/js/main.a327eb0c.js",
+    "static/js/592.23cfab58.chunk.js": "/draft-studio/static/js/592.23cfab58.chunk.js",
+    "index.html": "/draft-studio/index.html",
+    "main.f855e6bc.css.map": "/draft-studio/static/css/main.f855e6bc.css.map",
+    "main.a327eb0c.js.map": "/draft-studio/static/js/main.a327eb0c.js.map",
+    "592.23cfab58.chunk.js.map": "/draft-studio/static/js/592.23cfab58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.a327eb0c.js"
+  ]
+}
